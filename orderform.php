@@ -3,14 +3,14 @@
     <meta encoding='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>New Order - Metrodesk</title>
+    <title>New Order </title>
     <!-- Uploadcare library -->
     <script src="https://ucarecdn.com/widget/2.10.0/uploadcare/uploadcare.full.min.js" charset="utf-8"></script>
     <script>
       // Widget settings
       UPLOADCARE_LOCALE = "en";
       UPLOADCARE_TABS = "file";
-      UPLOADCARE_PUBLIC_KEY = "489c6caa4162eb0092ef";
+      UPLOADCARE_PUBLIC_KEY = "your uploadcare key";
       // Uploadcare script start
       $ = uploadcare.jQuery;
       // Create uploaded image list and append additional form fields to each item
